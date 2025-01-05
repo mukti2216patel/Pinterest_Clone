@@ -31,9 +31,9 @@ Make sure you have the following software installed:
 - [MongoDB](https://www.mongodb.com/) (or you can use a cloud MongoDB service like [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
 - [Git](https://git-scm.com/) for version control
 
-###Contributing 🤝
-Contributions are welcome! If you'd like to contribute, please follow these steps:
+## Contributing 🤝
 
+Contributions are welcome! If you'd like to contribute, please follow these steps:
 Fork the repository 🍴.
 Create a new branch (git checkout -b feature/your-feature).
 Make your changes and commit them (git commit -m 'Add new feature').
